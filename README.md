@@ -1,4 +1,4 @@
 CV
 ==
 
-Resumes and covers letters
+Resumes and covers letters with Latex
